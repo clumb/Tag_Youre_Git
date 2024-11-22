@@ -28,6 +28,24 @@ Once you've cloned the repo, you can try the following:
 4. Open a pull request and in the description, tag a team member to review your changes (using "@username").
 5. The tagged team member will (hopefully) review your changes, merge the pull request, and then repeat the process, tagging the next person in line.
 
+## Opening a Pull Request
+
+1. **Navigate to the main page of the repository**: After you have pushed your changes to your branch on GitHub, navigate to the main page of the repository on GitHub.
+
+2. **Click on 'Pull request'**: On the repository page, click on the 'Pull request' tab. This will take you to the pull request page.
+
+3. **Click on 'New pull request'**: On the pull request page, click on the 'New pull request' button.
+
+4. **Select the branch**: In the 'base:' and 'compare:' dropdown menus, select the branches you want to compare. The 'base:' branch is the one where you want your changes to go, and the 'compare:' branch is the one where you have made changes.
+
+5. **Review your changes**: GitHub will show you the changes you made on your branch compared to the base branch. Review these to make sure everything is correct.
+
+6. **Click on 'Create pull request'**: If everything looks good, click on the 'Create pull request' button.
+
+7. **Fill in the pull request form**: Give your pull request a title and describe your changes in the comment section. If you want to notify a team member to review your changes, type '@' followed by their username.
+
+8. **Submit the pull request**: Click on 'Create pull request' to submit your pull request. Now your team member can review your changes and merge them into the base branch.
+
 ## When You Are Tagged
 1. In RStudio, go to the "Git" tab and click on "Pull". This will update your local repository with the latest changes from GitHub.
 2. In the "Git" tab, click on "New Branch", enter a name for your branch, and click "Create".
@@ -96,4 +114,4 @@ Remember, when resolving conflicts, communication is key. If you're unsure about
 This guide should help your team understand and resolve the most common types of merge conflicts.
 
 ## Conclusion
-That's it.  I hope this is useful for people, and maybe even kind of fun.  If you have any suggestions, please let me know! 
+That's it.  I hope this is useful for people, and maybe even kind of fun.  If you have any suggestions, please let me know!   
